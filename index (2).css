@@ -1,0 +1,65 @@
+.con{
+   
+    width: 100%;
+    height: 100VB;
+}
+img{
+  display: block;
+}
+.sec{
+    width: 490px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 500px ;
+    background-color: rgb(197, 197, 235);
+opacity: 0.7;
+border-radius: 8px;
+font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(ff.jpg);
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+form{
+    text-align: center;
+    margin-top: 70px;
+}
+input{
+    font-size: 30px;
+    border-radius: 20px;
+}
+input[type=submit]{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    width: 350px;
+    padding: 10px;
+}
+input[type=checkbox]{
+    margin-right: 100px;
+}
+input[type=text]{
+    background: transparent;
+    border: 1px solid whitesmoke;
+}
+input[type=password]{
+    background: transparent;
+    border: 1px solid whitesmoke;
+}
+input[type=button]{
+    font-size: 16px;
+    background: transparent;
+border: none;
+}
+#username{
+   font-size: 18px;
+    width: 335px;
+    padding: 10px;
+}
+
+
+
